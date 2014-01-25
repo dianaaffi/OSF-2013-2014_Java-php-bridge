@@ -9,5 +9,13 @@ Comparing Java/Php Bridge using RMI performance and web services calls from PHP 
 
 <h1>Documentation</h1>
 The official documentation of this framework can be found on the <a href="http://php-java-bridge.sourceforge.net/pjb/">web</a>.
+Our documentation can be found in this repository under the name presentation. It also contains a guide for the installation of the project environment and the test cases and results.
+All necessary source codes for running tests are also found in this repository.
+
+<h1>Authors</h1>
+<ul>
+<li>Diana AFFI</li>
+<li>Joseph EL MALLAH</li>
+<li>Ahmed HACHMi</li>
 
 

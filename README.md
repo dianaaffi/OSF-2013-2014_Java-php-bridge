@@ -24,10 +24,10 @@ Follow these steps to perform a test comparing the REST calls to RMI calls betwe
 </ul>
 </li>
 <li>Change in the RMI call script mentioned before, the address of your java web application server from where to fetch the NamingContext.</li>
-<li>Deploy the Java web application "GamificationRMI.jar" on the second application server</li>
-<li>Open the test case "PHPJAVABridgeTest.jmx" in JMeter and set the destination base url to your first application server base url</li>
-<li>Launch the test</li>
-<li>Check the response time differences in the resulting graphs</li>
+<li>Deploy the Java web application "GamificationRMI.jar" on the second application server.</li>
+<li>Open the test case "PHPJAVABridgeTest.jmx" in JMeter and set the destination base url to your first application server base url.</li>
+<li>Launch the test.</li>
+<li>Check the response time differences in the resulting graphs.</li>
 </ol>
 
 
